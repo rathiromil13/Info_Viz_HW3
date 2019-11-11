@@ -28,16 +28,18 @@ Figure 4: 10 States with High Federal Funding per Student | Figure 5: 10 States 
 ![Relationship between Revenue and Expenditure for School District](figures/q22.png)
 ###### Figure 8: Percentage of Revenue used as Expenditure for each School District
 
-Scatter Plot between Revenue and expenditure shows a positive correlation between the two, with the increase in revenue, expenditure also increases. Since, expenditure is a component of revenue, the distribution of percentage of revenue used as expenditure for all school districts has been visualized and normal distribution of data is obtained. 
+Scatter Plot between Revenue and expenditure shows a positive correlation between the two: with the increase in revenue, expenditure also increases. Since, expenditure is a component of revenue, the distribution of percentage of revenue used as expenditure for all school districts has been visualized and normal distribution of data is obtained. 
 It is observed that, around 5000 school districts spends almost all the fundung allocated to them. Additionally, the expenditure of a large proportion of school districts is less than their revenue. It has been also observed that there's school districts which spend more than the funding they received.
 
 ### Rank and visualize Debt per Student by States
 
-![Debt per Student for US States](figures/q23.png)
-###### Figure 9: Debt per Student for US States
 <img src="figures/q211.png" width="300" height ="450"> | <img src="figures/q212.png" width="300" height ="450">
 :-------------------------:|:-------------------------:
-Figure 10: 10 States with High Student Debts | Figure 11: 10 States with Low Student Debts
+Figure 9: 10 States with High Student Debts | Figure 10: 10 States with Low Student Debts
+
+![Debt per Student for US States](figures/q23.png)
+###### Figure 11: Debt per Student for US States
+
 
 ## Solution 3
 
@@ -46,7 +48,6 @@ To convert the blurred data of a column, all the unique values in that column we
 The metric chosen was 'ALL_MTH00PCTPROF_1516' -  % of Students in the school that scored at or above proficient in Math, from the acheivement data in mathematics provided.
 
 The min and max values amongst all the values containing all digits in this metric column were 2 and 98, hence the mean obtained was 50. The NaN values, 'PS' values were replaced by 50. Value like '45-49' was replaced by 47 (mean of 45 and 49), 'GE90' was replaced by 90, 'LT50' was replaced by 26 (mean of 2 and 50) and so on.
-<<<<<<< HEAD
 
 ![% School District Vs % of Students in the school](figures/q3.png)
 ###### Figure 12: Histogram showing percentage of Students in the school that scored at or above proficient in Math corresponding to number of school districts
