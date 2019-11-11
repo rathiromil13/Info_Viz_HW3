@@ -79,11 +79,5 @@ For each school district, total expenditure and short term debt amount was subtr
 
 For deducting the federal funds the approach has been selected in a way that the funding is reduced only from the extra amount schools were getting, such that there is still required amount of funds even after performing the cut.
 The methodology mentioned above is justified by the fact that it takes into account the total expenditure and the short term debt for each school district. So that even after the decided amount is deducted from the federal revenue of the chosen school districts, they're left with enough funds.
->>>>>>> a2b5d33b61c5cd6d57cc9e8f2d4cc6bbb45a2a49
-
-## Solution 5
-
-For deducting the federal funds the approach has been selected in a way that the funding is reduced only from the extra amount schools were getting, such that there is still required amount of funds even after performing the cut.
-The methodology mentioned above is justified by the fact that it takes into account the total expenditure and the short term debt for each school district. So that even after the decided amount is deducted from the federal revenue of the chosen school districts, they're left with enough funds.
 
 
