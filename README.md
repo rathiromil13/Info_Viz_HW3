@@ -53,26 +53,14 @@ The min and max values amongst all the values containing all digits in this metr
 
 Figure 12 shows Number of school districts categorised by the percentage of students that scored at or above proficient in Math. It shows that about 80% to 90% students were good at math in about ~1000 schools and 50% to 60% students were good in math in about ~2500 schools. In around same number of school (2500) about 40% to 50% students were good at math.
 
-## Solution 4
-
-Cutting 15% of the US Federal budget currently being spent on funding school districts amounts to $8340410870.7. To choose the school districts which will have their funding cut following methodology was used:
-For each school district, total expenditure and short term debt amount was subtracted from the total funding received by it and was then sorted in decreasing order of amount thus left. The school districts for which the amount left was in negatives were filtered out. For each of the school district then left, 40%, 20% or 0% of the amount left, whichever was higher than the initial federal revenue being received was decided to be the amount that should be deducted. This was done until the target amount was reached.
-
-<img src="figures/q41.png" width="300" height ="450">
-###### Figure 13: Top 20 School Districts for Federal Funding Cut
-=======
-
-![% School District Vs % of Students in the school](figures/q3.png)
-###### Figure 12: % School District Vs % of Students in the school that scored at or above proficient in Math
-
-Figure 12 shows Number of school districts categorised by the percentage of students that scored at or above proficient in Math. It shows that about 80% to 90% students were good at math in about ~1000 schools and 50% to 60% students were good in math in about ~2500 schools. In around same number of school (2500) about 40% to 50% students were good at math.
 
 ## Solution 4
 
 Cutting 15% of the US Federal budget currently being spent on funding school districts amounts to $8340410870.7. To choose the school districts which will have their funding cut following methodology was used:
 For each school district, total expenditure and short term debt amount was subtracted from the total funding received by it and was then sorted in decreasing order of amount thus left. The school districts for which the amount left was in negatives were filtered out. For each of the school district then left, 40%, 20% or 0% of the amount left, whichever was higher than the initial federal revenue being received was decided to be the amount that should be deducted. This was done until the target amount was reached.
 
-<img src="figures/q41.png" width="300" height ="450">
+<img src="figures/q41.png" width="300" height ="600">
+
 ###### Figure 13: Top 20 School Districts for Federal Funding Cut
 
 ## Solution 5
