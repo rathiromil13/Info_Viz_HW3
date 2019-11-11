@@ -49,7 +49,7 @@ The min and max values amongst all the values containing all digits in this metr
 <<<<<<< HEAD
 
 ![% School District Vs % of Students in the school](figures/q3.png)
-###### Figure 12: % School District Vs % of Students in the school that scored at or above proficient in Math
+###### Figure 12: Histogram showing percentage of Students in the school that scored at or above proficient in Math corresponding to number of school districts
 
 Figure 12 shows Number of school districts categorised by the percentage of students that scored at or above proficient in Math. It shows that about 80% to 90% students were good at math in about ~1000 schools and 50% to 60% students were good in math in about ~2500 schools. In around same number of school (2500) about 40% to 50% students were good at math.
 
